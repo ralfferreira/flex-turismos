@@ -259,6 +259,14 @@ footer .footer {
         padding-left: 14px;
     }
 
+    header .menu {
+        padding: 20px;
+    }
+
+    div img {
+        margin-top: 30px;
+    }
+
     .flex-container {
         flex-direction: column;
     }
@@ -278,7 +286,6 @@ footer .footer {
         align-items: center;
         flex-direction: column;
     }
-
 
     .apresentacao .texto-apresentacao br {
         display: none;
